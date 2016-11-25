@@ -35,3 +35,40 @@ C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Register and Aut
 C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\obj\Debug\SampleFC.RegisterAuth.Core.Tests.csprojResolveAssemblyReference.cache
 C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\obj\Debug\SampleFC.RegisterAuth.Core.Tests.dll
 C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\obj\Debug\SampleFC.RegisterAuth.Core.Tests.pdb
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\xunit.abstractions.dll
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\SampleFC.RegisterAuth.Core.Tests.dll.config
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\SampleFC.RegisterAuth.Core.Tests.dll
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\SampleFC.RegisterAuth.Core.Tests.pdb
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\Castle.Core.dll
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\FluentAssertions.Core.dll
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\FluentAssertions.dll
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\Moq.dll
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\Moq.Sequences.dll
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\nunit.framework.dll
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\nunit.mocks.dll
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\pnunit.framework.dll
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\SampleFC.RegisterAuthentication.Core.dll
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\SharedKernel.dll
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\xunit.assert.dll
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\xunit.core.dll
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\SharedKernel.pdb
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\SampleFC.RegisterAuthentication.Core.pdb
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\Castle.Core.xml
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\FluentAssertions.pdb
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\FluentAssertions.xml
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\FluentAssertions.Core.pdb
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\FluentAssertions.Core.xml
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\Moq.xml
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\nunit.framework.xml
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\xunit.assert.pdb
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\xunit.assert.xml
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\xunit.core.pdb
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\xunit.core.xml
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\xunit.execution.desktop.pdb
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\obj\Debug\SampleFC.RegisterAuth.Core.Tests.csprojResolveAssemblyReference.cache
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\obj\Debug\SampleFC.RegisterAuth.Core.Tests.dll
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuth.Core.Tests\obj\Debug\SampleFC.RegisterAuth.Core.Tests.pdb

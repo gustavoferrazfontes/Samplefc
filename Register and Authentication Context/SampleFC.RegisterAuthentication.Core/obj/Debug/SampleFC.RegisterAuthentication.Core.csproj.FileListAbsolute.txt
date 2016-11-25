@@ -5,3 +5,10 @@ C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Register and Aut
 C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Register and Authentication Context\SampleFC.RegisterAuthentication.Core\obj\Debug\SampleFC.RegisterAuthentication.Core.csprojResolveAssemblyReference.cache
 C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Register and Authentication Context\SampleFC.RegisterAuthentication.Core\obj\Debug\SampleFC.RegisterAuthentication.Core.dll
 C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Register and Authentication Context\SampleFC.RegisterAuthentication.Core\obj\Debug\SampleFC.RegisterAuthentication.Core.pdb
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuthentication.Core\bin\Debug\SampleFC.RegisterAuthentication.Core.dll
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuthentication.Core\bin\Debug\SampleFC.RegisterAuthentication.Core.pdb
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuthentication.Core\bin\Debug\SharedKernel.dll
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuthentication.Core\bin\Debug\SharedKernel.pdb
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuthentication.Core\obj\Debug\SampleFC.RegisterAuthentication.Core.csprojResolveAssemblyReference.cache
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuthentication.Core\obj\Debug\SampleFC.RegisterAuthentication.Core.dll
+C:\Dev\Samplefc\Register and Authentication Context\SampleFC.RegisterAuthentication.Core\obj\Debug\SampleFC.RegisterAuthentication.Core.pdb

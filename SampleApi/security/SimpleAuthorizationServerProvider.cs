@@ -14,13 +14,11 @@ namespace NotasFaltas.WebApi.security
     public class SimpleAuthorizationServerProvider : OAuthAuthorizationServerProvider
     {
         private readonly IUserAuthentication _userAuthentication;
-        private readonly INotifiable<DomainNotification> _domainNotification;
         private readonly INotifiable<UserAuthenticated> _userAuthenticateNotification;
-        public SimpleAuthorizationServerProvider(IUserAuthentication userAuthentication, INotifiable<DomainNotification> domainNotification, INotifiable<UserAuthenticated> userAuthenticateNotification)
+        public SimpleAuthorizationServerProvider(IUserAuthentication userAuthentication,INotifiable<UserAuthenticated> userAuthenticateNotification)
         {
 
             _userAuthentication = userAuthentication;
-            _domainNotification = domainNotification;
             _userAuthenticateNotification = userAuthenticateNotification;
         }
 
@@ -36,9 +34,11 @@ namespace NotasFaltas.WebApi.security
 
             _userAuthentication.Authenticate(context.UserName, context.Password);
 
-            if (_domainNotification.HasNotifications())
+            if (!_userAuthenticateNotification.HasNotifications())
+            {
                 context.SetError("invalid_grant", "Usuário ou senha inválidos!");
-            return;
+                return;
+            }
             var user = _userAuthenticateNotification.Notify().First();
 
 

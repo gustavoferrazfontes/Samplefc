@@ -12,6 +12,11 @@ namespace SampleFC.RegisterAuthentication.Core.Domain.Model.Model.UserAggregate
         public string UserName { get; private set; }
         public string Password { get; private set; }
 
+        protected User()
+        {
+
+        }
+
         public User(string email, string emailConfirmed, string userName, string password)
         {
 

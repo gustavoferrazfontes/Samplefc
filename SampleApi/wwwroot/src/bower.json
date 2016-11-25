@@ -1,0 +1,26 @@
+{
+  "name": "bower",
+  "description": "lancamento de notas manual",
+  "main": "",
+  "authors": [
+    "Gustavo Fontes"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.8",
+    "toastr": "^2.1.3",
+    "angular-route": "^1.5.8",
+    "bootswatch": "^3.3.7",
+    "animate.css": "^3.5.2",
+    "font-awesome": "^4.6.3",
+    "angular-loading-bar": "^0.9.0"
+  }
+}

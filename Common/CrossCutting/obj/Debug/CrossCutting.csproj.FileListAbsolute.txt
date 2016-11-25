@@ -5,3 +5,10 @@ C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Common\CrossCutt
 C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Common\CrossCutting\obj\Debug\CrossCutting.csprojResolveAssemblyReference.cache
 C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Common\CrossCutting\obj\Debug\CrossCutting.dll
 C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Common\CrossCutting\obj\Debug\CrossCutting.pdb
+C:\Dev\Samplefc\Common\CrossCutting\bin\Debug\CrossCutting.dll
+C:\Dev\Samplefc\Common\CrossCutting\bin\Debug\CrossCutting.pdb
+C:\Dev\Samplefc\Common\CrossCutting\bin\Debug\SharedKernel.dll
+C:\Dev\Samplefc\Common\CrossCutting\bin\Debug\SharedKernel.pdb
+C:\Dev\Samplefc\Common\CrossCutting\obj\Debug\CrossCutting.csprojResolveAssemblyReference.cache
+C:\Dev\Samplefc\Common\CrossCutting\obj\Debug\CrossCutting.dll
+C:\Dev\Samplefc\Common\CrossCutting\obj\Debug\CrossCutting.pdb

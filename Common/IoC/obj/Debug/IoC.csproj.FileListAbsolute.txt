@@ -23,3 +23,28 @@ C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Common\IoC\bin\D
 C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Common\IoC\obj\Debug\IoC.csprojResolveAssemblyReference.cache
 C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Common\IoC\obj\Debug\IoC.dll
 C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Common\IoC\obj\Debug\IoC.pdb
+C:\Dev\Samplefc\Common\IoC\bin\Debug\IoC.dll.config
+C:\Dev\Samplefc\Common\IoC\bin\Debug\IoC.dll
+C:\Dev\Samplefc\Common\IoC\bin\Debug\IoC.pdb
+C:\Dev\Samplefc\Common\IoC\bin\Debug\CrossCutting.dll
+C:\Dev\Samplefc\Common\IoC\bin\Debug\EntityFramework.dll
+C:\Dev\Samplefc\Common\IoC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dev\Samplefc\Common\IoC\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Dev\Samplefc\Common\IoC\bin\Debug\SampleFC.RegisterAuthentication.Core.dll
+C:\Dev\Samplefc\Common\IoC\bin\Debug\SampleFC.RegisterAuthentication.Data.dll
+C:\Dev\Samplefc\Common\IoC\bin\Debug\SharedKernel.dll
+C:\Dev\Samplefc\Common\IoC\bin\Debug\SimpleInjector.dll
+C:\Dev\Samplefc\Common\IoC\bin\Debug\SimpleInjector.Extensions.ExecutionContextScoping.dll
+C:\Dev\Samplefc\Common\IoC\bin\Debug\SimpleInjector.Integration.Web.dll
+C:\Dev\Samplefc\Common\IoC\bin\Debug\SampleFC.RegisterAuthentication.Core.pdb
+C:\Dev\Samplefc\Common\IoC\bin\Debug\SampleFC.RegisterAuthentication.Data.pdb
+C:\Dev\Samplefc\Common\IoC\bin\Debug\CrossCutting.pdb
+C:\Dev\Samplefc\Common\IoC\bin\Debug\SharedKernel.pdb
+C:\Dev\Samplefc\Common\IoC\bin\Debug\EntityFramework.xml
+C:\Dev\Samplefc\Common\IoC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dev\Samplefc\Common\IoC\bin\Debug\SimpleInjector.xml
+C:\Dev\Samplefc\Common\IoC\bin\Debug\SimpleInjector.Extensions.ExecutionContextScoping.xml
+C:\Dev\Samplefc\Common\IoC\bin\Debug\SimpleInjector.Integration.Web.xml
+C:\Dev\Samplefc\Common\IoC\obj\Debug\IoC.csprojResolveAssemblyReference.cache
+C:\Dev\Samplefc\Common\IoC\obj\Debug\IoC.dll
+C:\Dev\Samplefc\Common\IoC\obj\Debug\IoC.pdb

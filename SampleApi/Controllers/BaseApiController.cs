@@ -24,5 +24,10 @@ namespace SampleApi.Controllers
             return null;
 
         }
+
+        public Task<HttpResponseMessage> Notifiy<T>(T args) where T : class
+        {
+            return Task.FromResult(Request.CreateResponse(System.Net.HttpStatusCode.OK, args));
+        }
     }
 }

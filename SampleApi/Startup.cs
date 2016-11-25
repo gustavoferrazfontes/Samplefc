@@ -27,7 +27,6 @@ namespace SampleApi
             configureDependencyInjection(config, container);
 
             ConfigureOAuth(app, container.GetInstance<IUserAuthentication>(),
-                container.GetInstance<INotifiable<DomainNotification>>(),
                 container.GetInstance<INotifiable<UserAuthenticated>>());
 
             app.UseCors(Microsoft.Owin.Cors.CorsOptions.AllowAll);
@@ -44,15 +43,15 @@ namespace SampleApi
             DomainEvent.Container = new DomainEventsContainer(new SimpleInjectorWebApiDependencyResolver(container));
         }
 
-        private static void ConfigureOAuth(IAppBuilder app, IUserAuthentication userAppService, INotifiable<DomainNotification> domainNotification, INotifiable<UserAuthenticated> userAuthenticateNotification)
+        private static void ConfigureOAuth(IAppBuilder app, IUserAuthentication userAppService, INotifiable<UserAuthenticated> userAuthenticateNotification)
         {
             var OAuthServerOptions = new OAuthAuthorizationServerOptions()
             {
                 AllowInsecureHttp = true,
                 TokenEndpointPath = new PathString("/api/security/token"),
-                AccessTokenExpireTimeSpan = TimeSpan.FromHours(2),
+                AccessTokenExpireTimeSpan = TimeSpan.FromMinutes(1),
                 ApplicationCanDisplayErrors = true,
-                Provider = new SimpleAuthorizationServerProvider(userAppService, domainNotification, userAuthenticateNotification)
+                Provider = new SimpleAuthorizationServerProvider(userAppService, userAuthenticateNotification)
 
 
             };

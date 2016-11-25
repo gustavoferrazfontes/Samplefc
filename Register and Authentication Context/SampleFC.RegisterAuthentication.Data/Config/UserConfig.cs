@@ -11,7 +11,9 @@ namespace SampleFC.RegisterAuthentication.Data.Config
             HasKey(u => u.Id);
 
             Property(u => u.Id)
-                .IsRequired();
+                .IsRequired()
+                .HasDatabaseGeneratedOption(System.ComponentModel.DataAnnotations.Schema.DatabaseGeneratedOption.Identity);
+
 
             Property(u => u.UserName)
                 .IsRequired()

@@ -4,7 +4,7 @@ namespace SampleFC.RegisterAuthentication.Core.Domain.Model
 {
     public abstract class Entity
     {
-        public Guid Id { get; protected set; }
+        public int Id { get; protected set; }
 
         public override bool Equals(object entity)
         {
@@ -19,8 +19,8 @@ namespace SampleFC.RegisterAuthentication.Core.Domain.Model
             if (GetType() != entityTmp.GetType())
                 return false;
 
-            var idInvalido = new Guid();
-            if (Id == idInvalido || entityTmp.Id == idInvalido)
+
+            if (Id == 0 || entityTmp.Id == 0)
                 return false;
 
             return Id == entityTmp.Id;

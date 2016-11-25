@@ -52,9 +52,9 @@
     <Compile Include="Config\UserConfig.cs" />
     <Compile Include="Config\UserRegistrationUnitOfWork.cs" />
     <Compile Include="Context\UserRegistrationContext.cs" />
-    <Compile Include="Migrations\201611250348555_create_user.cs" />
-    <Compile Include="Migrations\201611250348555_create_user.Designer.cs">
-      <DependentUpon>201611250348555_create_user.cs</DependentUpon>
+    <Compile Include="Migrations\201611251413531_create_user.cs" />
+    <Compile Include="Migrations\201611251413531_create_user.Designer.cs">
+      <DependentUpon>201611251413531_create_user.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -75,8 +75,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201611250348555_create_user.resx">
-      <DependentUpon>201611250348555_create_user.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201611251413531_create_user.resx">
+      <DependentUpon>201611251413531_create_user.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

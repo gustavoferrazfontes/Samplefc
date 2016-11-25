@@ -9,6 +9,7 @@ using System.Web.Http;
 
 namespace SampleApi.Controllers
 {
+    [RoutePrefix("api/account")]
     public class RegisterAndAuthenticationController : BaseApiController
     {
         private readonly IUserRegistration _userRegistration;
@@ -23,13 +24,20 @@ namespace SampleApi.Controllers
         }
 
         [HttpPost]
-        [Route("api/users")]
+        [Route("users")]
         public Task<HttpResponseMessage> Post([FromBody]RegisterCommand command)
         {
 
             _userRegistration.Register(command);
 
             return Notifiy(_domainNotification, _userNotification);
+        }
+
+        protected override void Dispose(bool disposing)
+        {
+            base.Dispose(disposing);
+            _domainNotification.Dispose();
+            _userNotification.Dispose();
         }
     }
 }

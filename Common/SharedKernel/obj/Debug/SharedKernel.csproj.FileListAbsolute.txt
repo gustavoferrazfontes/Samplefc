@@ -2,3 +2,8 @@ C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Common\SharedKer
 C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Common\SharedKernel\bin\Debug\SharedKernel.pdb
 C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Common\SharedKernel\obj\Debug\SharedKernel.dll
 C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Common\SharedKernel\obj\Debug\SharedKernel.pdb
+C:\Dev\Samplefc\Common\SharedKernel\bin\Debug\SharedKernel.dll
+C:\Dev\Samplefc\Common\SharedKernel\bin\Debug\SharedKernel.pdb
+C:\Dev\Samplefc\Common\SharedKernel\obj\Debug\SharedKernel.csprojResolveAssemblyReference.cache
+C:\Dev\Samplefc\Common\SharedKernel\obj\Debug\SharedKernel.dll
+C:\Dev\Samplefc\Common\SharedKernel\obj\Debug\SharedKernel.pdb

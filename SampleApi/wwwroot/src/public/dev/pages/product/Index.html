@@ -1,0 +1,23 @@
+<div class="container-fluid jumbotron">
+    <div class="row">
+        <div class="col-md-12">
+            <input type="text" name="search" ng-model="vm.search" value="" placeholder="pesquisar..." class="form-control" />
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th class="text-center">#</th>
+                        <th class="text-center">Descrição do produto</th>
+                        <th class="text-center">Preço</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="product in vm.products | filter:vm.search">
+                        <td class="text-center" ng-bind="product.$id"></td>
+                        <td class="text-center" ng-bind="product.description"></td>
+                        <td class="text-center" ng-bind="product.price | currency:'R$ ' "></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

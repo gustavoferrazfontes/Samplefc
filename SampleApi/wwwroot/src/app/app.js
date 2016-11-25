@@ -1,0 +1,1 @@
+﻿angular.module('samplefc', ['ngRoute', 'angular-loading-bar']);
