@@ -1,0 +1,16 @@
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Register and Authentication Context\SampleFC.RegisterAuthentication.Data\bin\Debug\SampleFC.RegisterAuthentication.Data.dll.config
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Register and Authentication Context\SampleFC.RegisterAuthentication.Data\bin\Debug\SampleFC.RegisterAuthentication.Data.dll
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Register and Authentication Context\SampleFC.RegisterAuthentication.Data\bin\Debug\SampleFC.RegisterAuthentication.Data.pdb
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Register and Authentication Context\SampleFC.RegisterAuthentication.Data\bin\Debug\EntityFramework.dll
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Register and Authentication Context\SampleFC.RegisterAuthentication.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Register and Authentication Context\SampleFC.RegisterAuthentication.Data\bin\Debug\SampleFC.RegisterAuthentication.Core.dll
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Register and Authentication Context\SampleFC.RegisterAuthentication.Data\bin\Debug\SharedKernel.dll
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Register and Authentication Context\SampleFC.RegisterAuthentication.Data\bin\Debug\SharedKernel.pdb
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Register and Authentication Context\SampleFC.RegisterAuthentication.Data\bin\Debug\SampleFC.RegisterAuthentication.Core.pdb
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Register and Authentication Context\SampleFC.RegisterAuthentication.Data\bin\Debug\EntityFramework.xml
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Register and Authentication Context\SampleFC.RegisterAuthentication.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Register and Authentication Context\SampleFC.RegisterAuthentication.Data\obj\Debug\SampleFC.RegisterAuthentication.Data.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Register and Authentication Context\SampleFC.RegisterAuthentication.Data\obj\Debug\SampleFC.RegisterAuthentication.Data.Migrations.create_user.resources
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Register and Authentication Context\SampleFC.RegisterAuthentication.Data\obj\Debug\SampleFC.RegisterAuthentication.Data.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Register and Authentication Context\SampleFC.RegisterAuthentication.Data\obj\Debug\SampleFC.RegisterAuthentication.Data.dll
+C:\Users\Gustavo\Documents\Visual Studio 2015\Projects\SampleFC\Register and Authentication Context\SampleFC.RegisterAuthentication.Data\obj\Debug\SampleFC.RegisterAuthentication.Data.pdb

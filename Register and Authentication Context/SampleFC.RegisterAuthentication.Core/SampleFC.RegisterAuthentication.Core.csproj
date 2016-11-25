@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6C3F6348-4821-4CD4-A750-921318EAF4D9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SampleFC.RegisterAuthentication.Core</RootNamespace>
+    <AssemblyName>SampleFC.RegisterAuthentication.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationLayer\Commands\RegisterCommand.cs" />
+    <Compile Include="ApplicationLayer\Handlers\UserAuthenticatedHandler.cs" />
+    <Compile Include="ApplicationLayer\Handlers\UserRegisteredHandler.cs" />
+    <Compile Include="ApplicationLayer\Interfaces\IUserApplicationService.cs" />
+    <Compile Include="ApplicationLayer\Interfaces\IUserAuthentication.cs" />
+    <Compile Include="ApplicationLayer\Interfaces\IUserRegistration.cs" />
+    <Compile Include="ApplicationLayer\UseCases\UseCaseBase.cs" />
+    <Compile Include="ApplicationLayer\UseCases\UserAuthentication.cs" />
+    <Compile Include="ApplicationLayer\UseCases\UserRegistration.cs" />
+    <Compile Include="Domain.Model\Events\UserAuthenticated.cs" />
+    <Compile Include="Domain.Model\UserAggregate\EncryptionService.cs" />
+    <Compile Include="Domain.Model\Events\UserRegistered.cs" />
+    <Compile Include="Domain.Model\UserAggregate\Interfaces\IEncryptionService.cs" />
+    <Compile Include="Domain.Model\UserAggregate\Interfaces\IUserRepository.cs" />
+    <Compile Include="Domain.Model\UserAggregate\scopes\UserScopes.cs" />
+    <Compile Include="Domain.Model\UserAggregate\Specs\UserSpecs.cs" />
+    <Compile Include="Domain.Model\UserAggregate\User.cs" />
+    <Compile Include="Entity.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\SharedKernel\SharedKernel.csproj">
+      <Project>{DEBA4F06-8598-42FA-9CF9-DF9EC449F085}</Project>
+      <Name>SharedKernel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
